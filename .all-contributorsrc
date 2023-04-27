@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "ashutosh1919",
-      "name": "Ashutosh Hathidara",
+      "login": "lukasthomas1919",
+      "name": "lukasthomas Hathidara",
       "avatar_url": "https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-      "profile": "http://ashutosh1919.github.io",
+      "profile": "http://lukasthomas1919.github.io",
       "contributions": [
         "code",
         "doc",
@@ -76,7 +76,7 @@
     },
     {
       "login": "a-mishra",
-      "name": "Ashutosh Mishra",
+      "name": "lukasthomas Mishra",
       "avatar_url": "https://avatars0.githubusercontent.com/u/10567548?v=4",
       "profile": "http://a-mishra.github.io",
       "contributions": [
@@ -198,10 +198,10 @@
       ]
     },
     {
-      "login": "saiteja13427",
-      "name": "Sai Teja",
+      "login": "nightfury_toothless",
+      "name": "Nightfury Toothless",
       "avatar_url": "https://avatars.githubusercontent.com/u/40917760?v=4",
-      "profile": "https://lightmap.dev",
+      "profile": "https://github.com/nightfury-toothless/myPortfolio",
       "contributions": [
         "code",
         "doc",
@@ -266,7 +266,7 @@
   ],
   "contributorsPerLine": 7,
   "projectName": "masterPortfolio",
-  "projectOwner": "ashutosh1919",
+  "projectOwner": "lukasthomas1919",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,

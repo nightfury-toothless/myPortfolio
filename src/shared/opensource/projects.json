@@ -3,8 +3,8 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "createdAt": "2023-03-06T16:26:54Z",
+      "url": "https://github.com/lukasthomas1919/myPortfolio",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
       "isFork": false,
       "languages": [
@@ -21,31 +21,21 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "react",
+          "iconifyClass": "ri:reactjs-line"
+        },
+        {
+          "name": "next",
+          "iconifyClass": "teenyicons:nextjs-solid"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "food-deliver-on-googlemap",
+      "createdAt": "2021-09-25T17:21:24Z",
+      "url": "https://github.com/nightfury-toothless/food-deliver-on-googlemap.git",
+      "description": "📦 connect between food merchant and buyer through the google map.",
       "isFork": false,
       "languages": [
         {
@@ -57,58 +47,114 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "react",
+          "iconifyClass": "ri:reactjs-line"
+        },
+        {
+          "name": "next",
+          "iconifyClass": "teenyicons:nextjs-solid"
         }
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "R_kgDOG0_8uQ",
+      "name": "shopify-drag",
+      "createdAt": "2021-02-11T14:50:20Z",
+      "url": "https://github.com/nightfury-toothless/shopify-drag.git",
+      "description": "🌀 Enable to drag the shopify items.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "ri:reactjs-line"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "bootstrap",
+          "iconifyClass": "bi:bootstrap-fill"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "shopify-email-sender",
+      "createdAt": "2020-10-4T09:33:50Z",
+      "url": "https://github.com/nightfury-toothless/shopify-email-sender.git",
+      "description": "🌀 Send the email from the shopify store.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "ri:reactjs-line"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "monogoDB",
+          "iconifyClass": "devicon:mongodb-wordmark"
+        },
+        {
+          "name": "express",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "nodejs",
+          "iconifyClass": "vscode-icons:file-type-node"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "shopify-react-headless",
+      "createdAt": "2020-08-21T10:20:31Z",
+      "url": "https://github.com/nightfury-toothless/shopify-react-headless.git",
+      "description": "🌀 remove the head of shopify section.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "ri:reactjs-line"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "bootstrap",
+          "iconifyClass": "bi:bootstrap-fill"
         }
       ]
     }
